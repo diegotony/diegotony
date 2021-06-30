@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegotony&label=Profile%20views&color=0e75b6&style=flat" alt="diegotony" /> </p>
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **ansible**
 
-- 💬 Ask me about **terraform aws azure serverless**
+- 💬 Ask me about **terraform - aws  - azure - serverless**
 
 - ⚡ Fun fact **I like dogs**
 
