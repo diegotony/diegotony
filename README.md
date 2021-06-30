@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegotony&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegotony&layout=compact)](https://github.com/diegotony/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegotony&layout=compact&langs_count=13)](https://github.com/diegotony/github-readme-stats)
 
-[![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegotony)](https://github.com/diegotony/github-readme-stats)
