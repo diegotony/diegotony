@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegotony)](https://github.com/diegotony/github-readme-stats)
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegotony&hide=contribs,prs)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegotony&show_icons=true&theme=radical)
+
