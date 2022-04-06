@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
+- 🏢 I'm currently working at **Intive**
 - ⚙️ I use daily: `.py`, `.sh`, `Dockerfile`, `.yaml`, `.tf`
 - 🌍 I'm mostly active within the **Terraform Community**
 - 🌱 Learning all about **Open Source**
