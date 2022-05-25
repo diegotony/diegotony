@@ -5,7 +5,7 @@
 ##### NOW
 
 - Learning Ansible and K8s
-- Created some custom modules in terraform
+- Creating some custom modules in terraform
 
 ##### BIO
 
