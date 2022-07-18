@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- Learning Ansible and K8s
+- Learning Golang, Terraform and K8s
 - Creating some custom modules in terraform
 
 ##### BIO
