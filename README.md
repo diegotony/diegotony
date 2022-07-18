@@ -13,5 +13,5 @@
 - ⚙️ I use daily: `.py`, `.sh`, `Dockerfile`, `.yaml`, `.tf`
 - 🌍 I'm mostly active within the **Terraform Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **cloud computing**, **automate thing**, **devops**
+- 💬 Ping me about **cloud computing**, **automate thing** and **devops**
 - ⚡️ Fun fact: I like anime and comics
