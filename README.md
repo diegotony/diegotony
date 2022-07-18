@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- Learning Golang, Terraform and K8s
+- Learning `golang`, `terraform` and `k8s`
 - Creating some custom modules in terraform
 
 ##### BIO
