@@ -4,8 +4,9 @@
 
 ##### NOW
 
-- Learning `golang`, `terraform` and `k8s`
+- Learning `golang`, `terraform` and `aws`
 - Creating some custom modules in terraform
+- Networking
 
 ##### BIO
 
@@ -14,4 +15,3 @@
 - 🌍 I'm mostly active within the **Terraform Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **cloud computing**, **automate thing** and **devops**
-- ⚡️ Fun fact: I like anime and comics
