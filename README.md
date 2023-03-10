@@ -15,3 +15,5 @@
 - 🌍 I'm mostly active within the **Terraform Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **cloud computing**, **automate thing** and **devops**
+
+[More Information](me.md)
