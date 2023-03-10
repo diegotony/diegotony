@@ -1,4 +1,4 @@
-# me-templates
+# Projects
 
 [Profile](https://github.com/diegotony/diegotony.github.io)
 
