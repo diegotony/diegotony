@@ -15,5 +15,4 @@
 - 🌱 Learning all about **Open Source**
 - Creating some custom modules in terraform
 - 💬 Ping me about **cloud computing**, **automate thing** and **devops**
-
 [More Information](me.md)
