@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-#### I'm a DevOps Engineer working in Loja, Ecuador.
+#### I'm a DevOps Engineer from Loja, Ecuador 🇪🇨
 
-##### NOW
+##### CURRENTLY
 
-- Learning `golang` and `aws`
-- Networking
+- 🚀 Exploring Cloud Cost Optimization
+- 🛠️ Managing a Self-Hosted Server Setup
 
-##### BIO
+##### ABOUT ME
 
-- 🏢 I'm currently working at **Intive**
-- ⚙️ I use daily: `.py`, `.sh`, `Dockerfile`, `.ts`, `.yaml` and `.tf`
-- 🌍 I'm mostly active within the **Terraform Community**
-- 🌱 Learning all about **Open Source**
-- Creating some custom modules in terraform
-- 💬 Ping me about **cloud computing**, **automate thing** and **devops**
+- 🏢 Currently working at **WiTi**
+- ⚙️ I work daily with: `.py`, `.sh`, `Dockerfile`, `.ts`, `.yaml`, and `.tf`
+- 🌱 Passionate about **Open Source** and constantly learning new tools and technologies
+- 🔧 Building custom modules in Terraform for automation and infrastructure
+- 💻 Automating workflows, tasks, and improving cloud infrastructure
+- 💬 Feel free to reach out if you want to talk about **Cloud Computing**, **Automation**, or anything **DevOps** related!
+
 [More Information](me.md)
