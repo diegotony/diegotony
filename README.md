@@ -9,7 +9,7 @@
 
 ##### ABOUT ME
 
-- 🏢 Currently working at **Intive**
+- 🏢 Currently working at **WiTi**
 - ⚙️ I work daily with: `.py`, `.sh`, `Dockerfile`, `.ts`, `.yaml`, and `.tf`
 - 🌱 Passionate about **Open Source** and constantly learning new tools and technologies
 - 🔧 Building custom modules in Terraform for automation and infrastructure
